@@ -13,3 +13,4 @@
 
 ### SQL LeetCode Hacker Rank
 -[Sql Problem](https://www.dsfaisal.com/articles/sql/leetcode-sql-problem-solving)
+-[AdvancedSQLPuzzles](https://github.com/smpetersgithub)
